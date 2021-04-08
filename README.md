@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello! I am Mintaek.
+
+Welcome to my GitHub page. You can also visit my [personal website](https://www.mintaek.com/).
 
 <!--
 **mintaek0764/mintaek0764** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
